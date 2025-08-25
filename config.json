@@ -10,13 +10,13 @@
    }, 
   "antiInbox": true,
   "language": "id",
-  "notesLanguage": "hanya ada bahasa Indonesia by hadi",
+  "notesLanguage": "en",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "100088085177610"
+    "100092707489189"
   ],
   "whiteListMode": {
     "enable": false,
